@@ -11,6 +11,9 @@ It does not contain production-ready code, but demonstrates clean documentation 
 
 ## Installation
 Clone the repository with:  
-
+print("Finish GitHub!")
+git add .
+git commit -m "İlk commit: Merhaba GitHub"
+git push -u origin main
 ```bash
 git clone https://github.com/<your-username>/demo-project-12.git
